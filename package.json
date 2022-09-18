@@ -1,0 +1,21 @@
+{
+  "name": "yoru-theme",
+  "displayName": "Yoru Theme",
+  "description": "A clean Visual Studio Code theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Yoru Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Yoru Theme-color-theme.json"
+      }
+    ]
+  }
+}
